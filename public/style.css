@@ -1,0 +1,6 @@
+.nao-concluido{
+	text-decoration: blink;
+}
+.concluido{
+	text-decoration: line-through;
+}
